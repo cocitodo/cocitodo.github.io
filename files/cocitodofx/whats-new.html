@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Novedades en esta versión</title>
+
+    <style>
+        * {
+            font-family: verdana;
+            background-color: rgb(240, 240, 235);
+        }
+
+        .title {
+            text-align: center;
+        }
+
+        p {
+            color: rgb(11, 127, 194);
+            text-align: right;
+        }
+
+        .lastChanges {
+            font-size: 13px;
+        }
+
+        .centered {
+            width: 60%;
+            margin: 5% auto;
+            padding: 10px;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+
+<body>
+<div class="centered">
+    <h1 class="title">🎉 Novedades</h1>
+    <p>versión 1.4-build-091501</p>
+
+    <h2>✅ Cambios principales</h2>
+    <ul>
+        <li>Ya se puede volver a capturar ventas con descuento y solicitar la autorización en <em>ventas -> solicitar ventas con descuento</em>.</li>
+        <li>Imprimir plantilla de cupones por rango o individualmente.</li>
+        <li>Validar incongruencia de importe vs capturado al editar un corte.</li>
+        <li>Solución error al editar vehículos se desasignaban el chofer.</li>
+        <li>Ahora se muestra el estatus de la venta en el reporte de tarjeta cliente.</li>
+        <li>Ahora no se deberia mostrar depósito sugerido en negativo después de imprimir el control del viernes.</li>
+        <li>Se mejoró de rendimiento al capturar y autorizar devoluciones de mercancía.</li>
+        <li>Se agregó un formulario para consultar la existencia de artículos de todas las zonas (corporativo).</li>
+        <li>Mejoras internas para el menú principal e inicio de sesión.</li>
+    </ul>
+
+    <h2>🚀 En proceso</h2>
+    <ul>
+        <li>Autorizar ventas con descuento de usado</li>
+        <li>Solicitar eliminar un recibo definitivo desde el sistema.</li>
+        <li>Evitar que aparezcan recibos de empleados dados de baja en el sistema.</li>
+        <li>Revisión y resumen de cortes y depositos <em>(corporativo)</em>.</li>
+        <li>Proceso para registrar <em>cobros</em> lento.</li>
+        <li>Proceso para registrar <em>ventas</em> lento.</li>
+        <li>Editar gastos vehiculos y gasolinas capturados <em>sin autorizar</em>.</li>
+        <li>Generar nuevamente un archivo sin necesidad de recibir primero la respuesta (ahora se bloqueara la captura hasta recibir respuesta).</li>
+    </ul>
+
+    <h5>🕙 Cambios de la ultima actualización</h5>
+    <ul class="lastChanges">
+        <li>Mostrar en cobranza los datos capturados al corte.</li>
+        <li>En los campos de texto para artículos se muestra el código junto al nombre.</li>
+        <li>Ahora se valida que las ventas con descuento esten autorizadas al cierre.</li>
+        <li>Ahora se muestra un dialogo de confirmación antes de guardar cortes adicionales.</li>
+        <li>Ya puede volver a imprimir el resumen de ruta en cobranza, aun despues de imprimir el control de efectivo.</li>
+        <li>Solicitar ventas con descuento de usado desde el sistema</li>
+        <li>Solución errores menores.</li>
+    </ul>
+</div>
+</body>
+
+</html>
