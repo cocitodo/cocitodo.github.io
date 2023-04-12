@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Application ts="1680540811076" uri="https://cocitodo.github.io/files/cocitodofx/dependencies/" launch="com.cocitodo.cocitodofx.Cocitodo">
+<Application ts="1681335417981" uri="https://cocitodo.github.io/files/cocitodofx/dependencies/" launch="com.cocitodo.cocitodofx.Cocitodo">
     <lib file="AnimateFX.jar" checksum="4235838143" size="96538"/>
     <lib file="batik-anim.jar" checksum="1879195649" size="485809"/>
     <lib file="batik-awt-util.jar" checksum="2746985123" size="424624"/>
@@ -18,7 +18,7 @@
     <lib file="batik-transcoder.jar" checksum="257702821" size="129300"/>
     <lib file="batik-util.jar" checksum="1709624843" size="127477"/>
     <lib file="batik-xml.jar" checksum="864170124" size="33866"/>
-    <lib file="cocitodoFX-1.5.11-build-030423.jar" checksum="1539351378" size="4324414"/>
+    <lib file="cocitodoFX-1.5.12-build-120423.jar" checksum="1663734890" size="4330986"/>
     <lib file="commons-beanutils.jar" checksum="2258134284" size="246918"/>
     <lib file="commons-codec.jar" checksum="3916456401" size="353793"/>
     <lib file="commons-collections.jar" checksum="1336530737" size="588337"/>
@@ -39,6 +39,9 @@
     <lib file="fontawesomefx-materialicons.jar" checksum="768973390" size="103686"/>
     <lib file="io.jar" checksum="298219157" size="807372"/>
     <lib file="itext.jar" checksum="62515292" size="1131534"/>
+    <lib file="jackson-annotations.jar" checksum="3251976585" size="76636"/>
+    <lib file="jackson-core.jar" checksum="3789518630" size="458834"/>
+    <lib file="jackson-databind.jar" checksum="139330982" size="1616844"/>
     <lib file="jasperreports.jar" checksum="2890156312" size="5652010"/>
     <lib file="javadbf.jar" checksum="1505775846" size="55502"/>
     <lib file="javax.mail.jar" checksum="2047441797" size="659031"/>
@@ -60,7 +63,7 @@
     <progressLabelStyle>-fx-font-weight: NORMAL;</progressLabelStyle>
     <progressBarStyle>-fx-pref-width: 380; -fx-accent: #2f2f2f;</progressBarStyle>
     <wrapperStyle>-fx-spacing: 5px; -fx-padding: 5px; -fx-border-color: transparent; -fx-background-color: #F5F5F5; -fx-background-radius: 3px; -fx-border-radius: 3px;</wrapperStyle>
-    <parameters>1.5.11-build-030423 --myOption=myValue --myOtherOption=myOtherValue</parameters>
+    <parameters>1.5.12-build-120423 --myOption=myValue --myOtherOption=myOtherValue</parameters>
     <cacheDir>USERLIB/CocitodoFiles</cacheDir>
     <acceptDowngrade>false</acceptDowngrade>
     <stopOnUpdateErrors>false</stopOnUpdateErrors>
