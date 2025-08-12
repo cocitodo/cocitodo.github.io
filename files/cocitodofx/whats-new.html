@@ -1,37 +1,54 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Novedades en esta versión</title>
 
     <style>
-        * {
-            font-family: verdana;
-            background-color: rgb(240, 240, 235);
+        body {
+            font-family: Verdana, sans-serif;
+            background-color: #f0f0eb;
+            margin: 0;
+            padding: 0;
+        }
+
+        .centered {
+            max-width: 700px;
+            margin: 5% auto;
+            padding: 20px;
+            background: #fff;
+            border-radius: 10px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
         }
 
         .title {
             text-align: center;
+            margin-bottom: 5px;
         }
 
-        p {
-            color: rgb(11, 127, 194);
-            text-align: right;
+        .version {
+            color: #0b7fc2;
+            text-align: center;
+            font-size: 0.9em;
+            margin-bottom: 20px;
         }
 
-        .lastChanges {
-            font-size: 13px;
+        h2 {
+            margin-top: 25px;
+            color: #333;
+            border-left: 5px solid #0b7fc2;
+            padding-left: 8px;
         }
 
-        .centered {
-            width: 60%;
-            margin: 5% auto;
-            padding: 10px;
+        ul {
+            padding-left: 20px;
         }
 
         li {
             margin-bottom: 10px;
+            line-height: 1.4;
         }
     </style>
 </head>
@@ -39,15 +56,16 @@
 <body>
 <div class="centered">
     <h1 class="title">🎉 Novedades</h1>
-    <p>versión 1.5.84-build-030125</p>
+    <p class="version">Versión 1.5.85-build-120825</p>
 
     <h2>✅ Cambios principales</h2>
     <ul>
-        <li><b>Cargos y Descargos: </b>Se puede descargar el mismo artículo para venta o descuento</li>
+        <li>Lanzamiento de la primera versión del sistema de notificaciones.</li>
     </ul>
+
     <h2>🚀 En proceso</h2>
     <ul>
-<!--        <li>Mejoras en Pólizas de Comisión de Ventas</li>-->
+        <li>Implementación de mejoras y optimizaciones en las notificaciones.</li>
     </ul>
 </div>
 </body>
