@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Application ts="1757953010879" uri="https://cocitodo.github.io/files/cocitodofx/java21/dependencies/" launch="com.cocitodo.cocitodofx.Cocitodo">
+<Application ts="1758043723167" uri="https://cocitodo.github.io/files/cocitodofx/java21/dependencies/" launch="com.cocitodo.cocitodofx.Cocitodo">
     <lib file="AnimateFX.jar" checksum="2122345341" size="105789"/>
     <lib file="batik-anim.jar" checksum="1879195649" size="485809"/>
     <lib file="batik-awt-util.jar" checksum="2746985123" size="424624"/>
@@ -18,7 +18,7 @@
     <lib file="batik-transcoder.jar" checksum="257702821" size="129300"/>
     <lib file="batik-util.jar" checksum="1709624843" size="127477"/>
     <lib file="batik-xml.jar" checksum="864170124" size="33866"/>
-    <lib file="cocitodoFX-1.5.85-build-120825.jar" checksum="2553864911" size="6423493"/>
+    <lib file="cocitodoFX-1.5.85-build-120825.jar" checksum="249722028" size="6423433"/>
     <lib file="commons-beanutils.jar" checksum="2258134284" size="246918"/>
     <lib file="commons-codec.jar" checksum="3916456401" size="353793"/>
     <lib file="commons-collections.jar" checksum="1336530737" size="588337"/>
@@ -48,7 +48,7 @@
     <lib file="jakarta.mail.jar" checksum="3640617158" size="689642"/>
     <lib file="jasperreports.jar" checksum="2890156312" size="5652010"/>
     <lib file="javadbf.jar" checksum="1484245691" size="58126"/>
-    <lib file="jfoenix.jar" checksum="1444567181" size="2435627"/>
+    <lib file="jfoenix.jar" checksum="2205834449" size="2435015"/>
     <lib file="kernel.jar" checksum="4075624602" size="1193758"/>
     <lib file="layout.jar" checksum="3902640941" size="538284"/>
     <lib file="log4j.jar" checksum="1818032796" size="489884"/>
