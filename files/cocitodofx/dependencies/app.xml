@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Application ts="1757630349374" uri="https://cocitodo.github.io/files/cocitodofx/dependencies/" launch="com.cocitodo.cocitodofx.Cocitodo">
+<Application ts="1758316658665" uri="https://cocitodo.github.io/files/cocitodofx/dependencies/" launch="com.cocitodo.cocitodofx.Cocitodo">
     <lib file="AnimateFX.jar" checksum="2751476239" size="100237"/>
     <lib file="batik-anim.jar" checksum="1879195649" size="485809"/>
     <lib file="batik-awt-util.jar" checksum="2746985123" size="424624"/>
@@ -18,7 +18,9 @@
     <lib file="batik-transcoder.jar" checksum="257702821" size="129300"/>
     <lib file="batik-util.jar" checksum="1709624843" size="127477"/>
     <lib file="batik-xml.jar" checksum="864170124" size="33866"/>
-    <lib file="cocitodoFX-1.5.85-build-120825.jar" checksum="1147299007" size="6458347"/>
+    <lib file="caffeine.jar" checksum="735698919" size="912143"/>
+    <lib file="checker-qual.jar" checksum="593551338" size="222143"/>
+    <lib file="cocitodoFX-1.5.85-build-120825.jar" checksum="2184802631" size="6465432"/>
     <lib file="commons-beanutils.jar" checksum="2258134284" size="246918"/>
     <lib file="commons-codec.jar" checksum="3916456401" size="353793"/>
     <lib file="commons-collections.jar" checksum="1336530737" size="588337"/>
@@ -32,6 +34,7 @@
     <lib file="commons.jar" checksum="3472700813" size="78675"/>
     <lib file="controlsfx.jar" checksum="2493090305" size="1436095"/>
     <lib file="ecj.jar" checksum="4281725885" size="2989263"/>
+    <lib file="error_prone_annotations.jar" checksum="2450508574" size="15992"/>
     <lib file="fontawesomefx-commons.jar" checksum="2467533091" size="20957"/>
     <lib file="fontawesomefx-emojione.jar" checksum="1609132394" size="3642164"/>
     <lib file="fontawesomefx-fontawesome.jar" checksum="2344265955" size="136891"/>
