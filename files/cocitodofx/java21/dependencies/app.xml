@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Application ts="1759182084160" uri="https://cocitodo.github.io/files/cocitodofx/java21/dependencies/" launch="com.cocitodo.cocitodofx.Cocitodo">
+<Application ts="1759255434710" uri="https://cocitodo.github.io/files/cocitodofx/java21/dependencies/" launch="com.cocitodo.cocitodofx.Cocitodo">
     <lib file="AnimateFX.jar" checksum="2122345341" size="105789"/>
     <lib file="batik-anim.jar" checksum="1879195649" size="485809"/>
     <lib file="batik-awt-util.jar" checksum="2746985123" size="424624"/>
@@ -19,7 +19,7 @@
     <lib file="batik-util.jar" checksum="1709624843" size="127477"/>
     <lib file="batik-xml.jar" checksum="864170124" size="33866"/>
     <lib file="caffeine.jar" checksum="675044274" size="895419"/>
-    <lib file="cocitodoFX-2.1.1-build-190925.jar" checksum="2645297924" size="6424809"/>
+    <lib file="cocitodoFX-2.1.1-build-190925.jar" checksum="1302228366" size="6425535"/>
     <lib file="commons-beanutils.jar" checksum="2258134284" size="246918"/>
     <lib file="commons-codec.jar" checksum="3916456401" size="353793"/>
     <lib file="commons-collections.jar" checksum="1336530737" size="588337"/>
@@ -67,10 +67,8 @@
     <progressLabelStyle>-fx-font-weight: NORMAL;</progressLabelStyle>
     <progressBarStyle>-fx-pref-width: 380; -fx-accent: #2f2f2f;</progressBarStyle>
     <wrapperStyle>-fx-spacing: 5px; -fx-padding: 5px; -fx-border-color: transparent; -fx-background-color: #F5F5F5; -fx-background-radius: 3px; -fx-border-radius: 3px;</wrapperStyle>
-    <parameters>2.1.1-build-190925</parameters>
     <cacheDir>USERLIB/CocitodoFXFiles</cacheDir>
     <acceptDowngrade>false</acceptDowngrade>
     <stopOnUpdateErrors>false</stopOnUpdateErrors>
-    <whatsNewPage>https://cocitodo.github.io/files/cocitodofx/whats-new.html</whatsNewPage>
     <lingeringUpdateScreen>false</lingeringUpdateScreen>
 </Application>
