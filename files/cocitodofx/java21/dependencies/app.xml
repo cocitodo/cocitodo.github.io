@@ -1,36 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Application ts="1759255434710" uri="https://cocitodo.github.io/files/cocitodofx/java21/dependencies/" launch="com.cocitodo.cocitodofx.Cocitodo">
+<Application ts="1759335882641" uri="https://cocitodo.github.io/files/cocitodofx/java21/dependencies/" launch="com.cocitodo.cocitodofx.Cocitodo">
     <lib file="AnimateFX.jar" checksum="2122345341" size="105789"/>
-    <lib file="batik-anim.jar" checksum="1879195649" size="485809"/>
-    <lib file="batik-awt-util.jar" checksum="2746985123" size="424624"/>
-    <lib file="batik-bridge.jar" checksum="560058553" size="703757"/>
-    <lib file="batik-constants.jar" checksum="1188375306" size="8433"/>
-    <lib file="batik-css.jar" checksum="2957678128" size="330318"/>
-    <lib file="batik-dom.jar" checksum="2447447516" size="184487"/>
-    <lib file="batik-ext.jar" checksum="173373763" size="10238"/>
-    <lib file="batik-gvt.jar" checksum="3080317991" size="192087"/>
-    <lib file="batik-i18n.jar" checksum="2177932208" size="11466"/>
-    <lib file="batik-parser.jar" checksum="1417878462" size="76875"/>
-    <lib file="batik-script.jar" checksum="1841098809" size="25876"/>
-    <lib file="batik-shared-resources.jar" checksum="2467847557" size="6663"/>
-    <lib file="batik-svg-dom.jar" checksum="876865071" size="232734"/>
-    <lib file="batik-svggen.jar" checksum="2436968271" size="227514"/>
-    <lib file="batik-transcoder.jar" checksum="257702821" size="129300"/>
-    <lib file="batik-util.jar" checksum="1709624843" size="127477"/>
-    <lib file="batik-xml.jar" checksum="864170124" size="33866"/>
+    <lib file="batik-anim.jar" checksum="2752921763" size="486122"/>
+    <lib file="batik-awt-util.jar" checksum="949442541" size="424546"/>
+    <lib file="batik-bridge.jar" checksum="4018721184" size="705098"/>
+    <lib file="batik-constants.jar" checksum="1171808852" size="8554"/>
+    <lib file="batik-css.jar" checksum="859418721" size="330795"/>
+    <lib file="batik-dom.jar" checksum="2413058590" size="184145"/>
+    <lib file="batik-ext.jar" checksum="1109505131" size="10356"/>
+    <lib file="batik-gvt.jar" checksum="3607129547" size="192193"/>
+    <lib file="batik-i18n.jar" checksum="3226645860" size="11539"/>
+    <lib file="batik-parser.jar" checksum="2615846583" size="76926"/>
+    <lib file="batik-script.jar" checksum="1673213092" size="24758"/>
+    <lib file="batik-shared-resources.jar" checksum="2015388882" size="6687"/>
+    <lib file="batik-svg-dom.jar" checksum="3493744908" size="230612"/>
+    <lib file="batik-util.jar" checksum="3034115428" size="127230"/>
+    <lib file="batik-xml.jar" checksum="3340162242" size="33967"/>
     <lib file="caffeine.jar" checksum="675044274" size="895419"/>
-    <lib file="cocitodoFX-2.1.1-build-190925.jar" checksum="1302228366" size="6425535"/>
-    <lib file="commons-beanutils.jar" checksum="2258134284" size="246918"/>
+    <lib file="cocitodoFX-2.1.1-build-190925.jar" checksum="3756893469" size="6426453"/>
+    <lib file="commons-beanutils.jar" checksum="534441274" size="246806"/>
     <lib file="commons-codec.jar" checksum="3916456401" size="353793"/>
     <lib file="commons-collections.jar" checksum="1336530737" size="588337"/>
     <lib file="commons-collections4.jar" checksum="4010596443" size="898652"/>
     <lib file="commons-digester.jar" checksum="2702119393" size="196768"/>
     <lib file="commons-io.jar" checksum="4263994438" size="563971"/>
     <lib file="commons-lang3.jar" checksum="4022893901" size="702952"/>
-    <lib file="commons-logging.jar" checksum="2486592504" size="60686"/>
+    <lib file="commons-logging.jar" checksum="2606957773" size="73737"/>
+    <lib file="commons-math3.jar" checksum="3267877753" size="2213560"/>
     <lib file="commons-net.jar" checksum="4210989579" size="330333"/>
     <lib file="commons-text.jar" checksum="1781725915" size="259067"/>
-    <lib file="commons.jar" checksum="3472700813" size="78675"/>
     <lib file="controlsfx.jar" checksum="471603280" size="1392367"/>
     <lib file="ecj.jar" checksum="4281725885" size="2989263"/>
     <lib file="fontawesomefx-commons.jar" checksum="3242067332" size="24064"/>
@@ -40,28 +38,27 @@
     <lib file="fontawesomefx-materialdesignfont.jar" checksum="364406170" size="230736"/>
     <lib file="fontawesomefx-materialicons.jar" checksum="3747028736" size="104021"/>
     <lib file="HikariCP.jar" checksum="1601387614" size="172312"/>
-    <lib file="io.jar" checksum="298219157" size="807372"/>
-    <lib file="itext.jar" checksum="62515292" size="1131534"/>
     <lib file="jackson-annotations.jar" checksum="1365315917" size="79195"/>
     <lib file="jackson-core.jar" checksum="2081008109" size="593063"/>
     <lib file="jackson-databind.jar" checksum="2231454064" size="1688471"/>
     <lib file="jakarta.activation.jar" checksum="1229791977" size="62154"/>
     <lib file="jakarta.mail.jar" checksum="3640617158" size="689642"/>
-    <lib file="jasperreports.jar" checksum="2890156312" size="5652010"/>
+    <lib file="jasperreports.jar" checksum="3168238726" size="5866025"/>
     <lib file="javadbf.jar" checksum="1484245691" size="58126"/>
     <lib file="jfoenix.jar" checksum="2205834449" size="2435015"/>
-    <lib file="kernel.jar" checksum="4075624602" size="1193758"/>
-    <lib file="layout.jar" checksum="3902640941" size="538284"/>
     <lib file="log4j-api.jar" checksum="2436213495" size="349593"/>
     <lib file="log4j-core.jar" checksum="2181592681" size="2013088"/>
     <lib file="log4j-slf4j2-impl.jar" checksum="971637220" size="30232"/>
     <lib file="mysql-connector-j.jar" checksum="3886365327" size="2591877"/>
     <lib file="opencsv.jar" checksum="3504840609" size="242337"/>
-    <lib file="poi.jar" checksum="3281112652" size="2701171"/>
+    <lib file="openpdf.jar" checksum="2732613776" size="2147468"/>
+    <lib file="poi.jar" checksum="2758728824" size="2996461"/>
     <lib file="report-custom-fonts.jar" checksum="548259507" size="3427634"/>
     <lib file="slf4j-api.jar" checksum="1942139120" size="69908"/>
+    <lib file="SparseBitSet.jar" checksum="1931898752" size="25843"/>
     <lib file="xml-apis-ext.jar" checksum="1906727196" size="85686"/>
-    <lib file="xmlgraphics-commons.jar" checksum="3379558069" size="674607"/>
+    <lib file="xml-apis.jar" checksum="3874277142" size="220536"/>
+    <lib file="xmlgraphics-commons.jar" checksum="4268202369" size="681368"/>
     <updateText>Actualizando archivos del sistema, espera por favor...</updateText>
     <updateLabelStyle>-fx-font-weight: BOLD;</updateLabelStyle>
     <progressLabelStyle>-fx-font-weight: NORMAL;</progressLabelStyle>
@@ -70,5 +67,6 @@
     <cacheDir>USERLIB/CocitodoFXFiles</cacheDir>
     <acceptDowngrade>false</acceptDowngrade>
     <stopOnUpdateErrors>false</stopOnUpdateErrors>
+    <whatsNewPage>https://cocitodo.github.io/files/cocitodofx/whats-new.html</whatsNewPage>
     <lingeringUpdateScreen>false</lingeringUpdateScreen>
 </Application>
