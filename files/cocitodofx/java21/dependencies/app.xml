@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Application ts="1760734218273" uri="https://cocitodo.github.io/files/cocitodofx/java21/dependencies/" launch="com.cocitodo.cocitodofx.Cocitodo">
+<Application ts="1760736557058" uri="https://cocitodo.github.io/files/cocitodofx/java21/dependencies/" launch="com.cocitodo.cocitodofx.Cocitodo">
     <lib file="AnimateFX.jar" checksum="2122345341" size="105789"/>
     <lib file="batik-anim.jar" checksum="2752921763" size="486122"/>
     <lib file="batik-awt-util.jar" checksum="949442541" size="424546"/>
@@ -17,7 +17,7 @@
     <lib file="batik-util.jar" checksum="3034115428" size="127230"/>
     <lib file="batik-xml.jar" checksum="3340162242" size="33967"/>
     <lib file="caffeine.jar" checksum="675044274" size="895419"/>
-    <lib file="cocitodoFX-2.1.1-build-190925.jar" checksum="57949976" size="6426662"/>
+    <lib file="cocitodoFX-2.1.1-build-190925.jar" checksum="123176809" size="6426653"/>
     <lib file="commons-beanutils.jar" checksum="534441274" size="246806"/>
     <lib file="commons-codec.jar" checksum="3916456401" size="353793"/>
     <lib file="commons-collections.jar" checksum="1336530737" size="588337"/>
