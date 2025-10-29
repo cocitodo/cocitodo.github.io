@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Application ts="1761690832631" uri="https://cocitodo.github.io/files/cocitodofx/java21/dependencies/" launch="com.cocitodo.cocitodofx.Cocitodo">
+<Application ts="1761759511067" uri="https://cocitodo.github.io/files/cocitodofx/java21/dependencies/" launch="com.cocitodo.cocitodofx.Cocitodo">
     <lib file="AnimateFX.jar" checksum="2122345341" size="105789"/>
     <lib file="batik-anim.jar" checksum="2752921763" size="486122"/>
     <lib file="batik-awt-util.jar" checksum="949442541" size="424546"/>
@@ -17,11 +17,12 @@
     <lib file="batik-util.jar" checksum="3034115428" size="127230"/>
     <lib file="batik-xml.jar" checksum="3340162242" size="33967"/>
     <lib file="caffeine.jar" checksum="675044274" size="895419"/>
-    <lib file="cocitodoFX-2.1.1-build-190925.jar" checksum="2378755604" size="6442600"/>
+    <lib file="cocitodoFX-2.1.1-build-190925.jar" checksum="3344347654" size="6442749"/>
     <lib file="commons-beanutils.jar" checksum="534441274" size="246806"/>
     <lib file="commons-codec.jar" checksum="3916456401" size="353793"/>
     <lib file="commons-collections.jar" checksum="1336530737" size="588337"/>
     <lib file="commons-collections4.jar" checksum="4010596443" size="898652"/>
+    <lib file="commons-compress.jar" checksum="3412944505" size="1087319"/>
     <lib file="commons-digester.jar" checksum="2702119393" size="196768"/>
     <lib file="commons-io.jar" checksum="4263994438" size="563971"/>
     <lib file="commons-lang3.jar" checksum="4022893901" size="702952"/>
@@ -30,6 +31,7 @@
     <lib file="commons-net.jar" checksum="4210989579" size="330333"/>
     <lib file="commons-text.jar" checksum="1781725915" size="259067"/>
     <lib file="controlsfx.jar" checksum="471603280" size="1392367"/>
+    <lib file="curvesapi.jar" checksum="747034020" size="117159"/>
     <lib file="ecj.jar" checksum="4281725885" size="2989263"/>
     <lib file="fontawesomefx-commons.jar" checksum="3242067332" size="24064"/>
     <lib file="fontawesomefx-emojione.jar" checksum="3397325137" size="3642583"/>
@@ -52,12 +54,15 @@
     <lib file="mysql-connector-j.jar" checksum="3886365327" size="2591877"/>
     <lib file="opencsv.jar" checksum="3504840609" size="242337"/>
     <lib file="openpdf.jar" checksum="2732613776" size="2147468"/>
+    <lib file="poi-ooxml-lite.jar" checksum="1409271052" size="5996003"/>
+    <lib file="poi-ooxml.jar" checksum="3294236887" size="2037787"/>
     <lib file="poi.jar" checksum="2758728824" size="2996461"/>
     <lib file="report-custom-fonts.jar" checksum="548259507" size="3427634"/>
     <lib file="slf4j-api.jar" checksum="1942139120" size="69908"/>
     <lib file="SparseBitSet.jar" checksum="1931898752" size="25843"/>
     <lib file="xml-apis-ext.jar" checksum="1906727196" size="85686"/>
     <lib file="xml-apis.jar" checksum="3874277142" size="220536"/>
+    <lib file="xmlbeans.jar" checksum="2463761427" size="2211661"/>
     <lib file="xmlgraphics-commons.jar" checksum="4268202369" size="681368"/>
     <updateText>Actualizando archivos del sistema, espera por favor...</updateText>
     <updateLabelStyle>-fx-font-weight: BOLD;</updateLabelStyle>
