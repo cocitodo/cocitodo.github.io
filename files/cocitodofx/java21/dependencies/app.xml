@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Application ts="1761768488304" uri="https://cocitodo.github.io/files/cocitodofx/java21/dependencies/" launch="com.cocitodo.cocitodofx.Cocitodo">
+<Application ts="1761856214935" uri="https://cocitodo.github.io/files/cocitodofx/java21/dependencies/" launch="com.cocitodo.cocitodofx.Cocitodo">
     <lib file="AnimateFX.jar" checksum="2122345341" size="105789"/>
     <lib file="batik-anim.jar" checksum="2752921763" size="486122"/>
     <lib file="batik-awt-util.jar" checksum="949442541" size="424546"/>
@@ -17,7 +17,7 @@
     <lib file="batik-util.jar" checksum="3034115428" size="127230"/>
     <lib file="batik-xml.jar" checksum="3340162242" size="33967"/>
     <lib file="caffeine.jar" checksum="675044274" size="895419"/>
-    <lib file="cocitodoFX-2.1.1-build-190925.jar" checksum="1034506922" size="6443015"/>
+    <lib file="cocitodoFX-2.1.1-build-190925.jar" checksum="2345038244" size="6443018"/>
     <lib file="commons-beanutils.jar" checksum="534441274" size="246806"/>
     <lib file="commons-codec.jar" checksum="3916456401" size="353793"/>
     <lib file="commons-collections.jar" checksum="1336530737" size="588337"/>
@@ -57,7 +57,7 @@
     <lib file="poi-ooxml-lite.jar" checksum="1409271052" size="5996003"/>
     <lib file="poi-ooxml.jar" checksum="3294236887" size="2037787"/>
     <lib file="poi.jar" checksum="2758728824" size="2996461"/>
-    <lib file="report-custom-fonts.jar" checksum="548259507" size="3427634"/>
+    <lib file="report-custom-fonts.jar" checksum="3972138490" size="5803963"/>
     <lib file="slf4j-api.jar" checksum="1942139120" size="69908"/>
     <lib file="SparseBitSet.jar" checksum="1931898752" size="25843"/>
     <lib file="xml-apis-ext.jar" checksum="1906727196" size="85686"/>
